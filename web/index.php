@@ -1,13 +1,9 @@
 <?php
 	ini_set('display_errors', 'On');
 	
-	
-
-
 	session_save_path("sess");
 	session_start(); 
 
-	$dbconn = db_connect();
 
 	$errors=array();
 	$view="";
