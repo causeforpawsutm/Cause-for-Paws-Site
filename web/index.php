@@ -6,7 +6,7 @@
 
 
 	$errors=array();
-	$view="";
+	$views="";
 	
 	
 	
@@ -16,7 +16,7 @@
 	
 	switch($_SESSION['state']){
 		case "test":
-			$view="test.php";
+			$views="test.php";
 
 			//button to go back to login
 			if ($_SERVER['REQUEST_METHOD'] === 'POST'){
@@ -30,7 +30,7 @@
 		
 		case "home":
 			// the view we display by default
-			$view="home.php";
+			$views="home.php";
 			
 
 			//checks to see if register button has been clicked, changes the state to register
@@ -45,5 +45,5 @@
 
 			break;
 	}
-	require_once "view/$view";
+	require_once "views/$views";
 ?>
