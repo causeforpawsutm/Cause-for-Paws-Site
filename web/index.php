@@ -12,6 +12,7 @@
 	
 	if(!isset($_SESSION['state'])){
 		$_SESSION['state']='home';
+		$views="home.php";
 	}
 	
 	switch($_SESSION['state']){
