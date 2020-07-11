@@ -4,8 +4,7 @@
 	
 
 	
-	session_save_path("web/sess");
-	ini_set('session.gc_probability', 1);
+	session_save_path();
 	session_start(); 
 
 
