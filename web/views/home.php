@@ -1,8 +1,4 @@
-<?php
 
-
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -14,13 +10,12 @@
 		<header><h1>Home</h1></header>
 	
 		<main>
-			<h1>Home</h1>
+			<h1>Busterland</h1>
 		
-			<form action="index.php" method="post">
+			<form action="index.php">
 				<input type="submit" name="testbtn" value="testbtn"/>
 			</form>	 
 		</main>
-		<footer>
-		</footer>
+	
 	</body>
 </html>
