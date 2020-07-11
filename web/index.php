@@ -1,7 +1,7 @@
 <?php
 	ini_set('display_errors', 'On');
 	
-	session_save_path();
+	session_save_path("../sess");
 	session_start(); 
 
 
