@@ -1,25 +1,57 @@
 <?php
+	ini_set('display_errors', 'On');
+	require_once "lib/lib.php";
+	
 
-require('../vendor/autoload.php');
 
-$app = new Silex\Application();
-$app['debug'] = true;
+	session_save_path("sess");
+	session_start(); 
 
-// Register the monolog logging service
-$app->register(new Silex\Provider\MonologServiceProvider(), array(
-  'monolog.logfile' => 'php://stderr',
-));
+	$dbconn = db_connect();
 
-// Register view rendering
-$app->register(new Silex\Provider\TwigServiceProvider(), array(
-    'twig.path' => __DIR__.'/views',
-));
+	$errors=array();
+	$view="";
+	
+	
+	
+	if(!isset($_SESSION['state'])){
+		$_SESSION['state']='home';
+	}
+	
+	
 
-// Our web handlers
+	switch($_SESSION['state']){
+	
 
-$app->get('/', function() use($app) {
-  $app['monolog']->addDebug('logging output.');
-  return $app['twig']->render('index.twig');
-});
+		case "test":
+			$view="test.php";
 
-$app->run();
+			//button to go back to login
+			if ($_SERVER['REQUEST_METHOD'] === 'POST'){
+				if (isset($_POST['test2btn'])) {
+					$_SESSION['state']='home';
+					$view="home.php";
+					break;
+				}
+			}
+			break;
+		
+		case "home":
+			// the view we display by default
+			$view="home.php";
+			
+
+			//checks to see if register button has been clicked, changes the state to register
+			if ($_SERVER['REQUEST_METHOD'] === 'POST'){
+				if (isset($_POST['testbtn'])) {
+					$_SESSION['state']='test';
+					$view="test.php";
+					break;
+				}
+			}	
+			
+
+			break;
+	}
+	require_once "view/$view";
+?>
