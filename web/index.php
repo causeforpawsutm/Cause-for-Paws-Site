@@ -12,12 +12,11 @@
 	
 	if(!isset($_SESSION['state'])){
 		$_SESSION['state']='home';
-		$views="home.php";
 	}
 	
 	switch($_SESSION['state']){
 		case "test":
-			//$views="test.php";
+			$views="test.php";
 
 			//button to go back to home
 			
@@ -35,7 +34,7 @@
 		
 		case "home":
 			// the view we display by default
-			//$views="home.php";
+			$views="home.php";
 			
 			if (!empty($_REQUEST['testbtn'])) {
 				$_SESSION['state']='test';
