@@ -1,6 +1,6 @@
 <?php
 	ini_set('display_errors', 'On');
-	require_once "lib/lib.php";
+	
 	
 
 
@@ -18,11 +18,7 @@
 		$_SESSION['state']='home';
 	}
 	
-	
-
 	switch($_SESSION['state']){
-	
-
 		case "test":
 			$view="test.php";
 
