@@ -26,6 +26,10 @@
 				$view="home.php";
 				break;
 			}
+
+			if(empty($_REQUEST['test2btn']) || $_REQUEST['test2btn']!="login"){
+				break;
+			}
 			
 			break;
 		
@@ -36,6 +40,10 @@
 			if (isset($_REQUEST['testbtn'])) {
 				$_SESSION['state']='test';
 				$view="test.php";
+				break;
+			}
+
+			if(empty($_REQUEST['testbtn']) || $_REQUEST['submit']!="testbtn"){
 				break;
 			}
 			break;
