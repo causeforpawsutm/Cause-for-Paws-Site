@@ -10,12 +10,12 @@
 
   <title>Cause for Paws</title>
   <!-- Bootstrap core CSS -->
-  <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text\css"> 
+  <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
   <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
 
   <!-- Custom styles for this template -->
-  <link href="../stylesheets/scrolling-nav.css" rel="stylesheet" type="text\css">
+  <link href="../stylesheets/scrolling-nav.css" rel="stylesheet">
   <script src="js/jquery-1.11.0.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/wow.min.js"></script>
