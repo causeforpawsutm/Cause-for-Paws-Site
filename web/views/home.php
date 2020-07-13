@@ -9,12 +9,11 @@
   <meta name="author" content="Andi Fan, Kim Le">
 
   <title>Cause for Paws</title>
-  <base href="https://secret-reaches-83737.herokuapp.com/" target="_blank">
   <!-- Bootstrap core CSS -->
-  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="/web/stylesheets/scrolling-nav.css" rel="stylesheet">
+  <link href="../stylesheets/scrolling-nav.css" rel="stylesheet">
 
 </head>
 
