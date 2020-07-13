@@ -16,6 +16,9 @@
 
   <!-- Custom styles for this template -->
   <link href="../stylesheets/scrolling-nav.css" rel="stylesheet">
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/wow.min.js"></script>
 
 </head>
 
