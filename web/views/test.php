@@ -14,6 +14,7 @@
 			<form action="index.php">
 				<input type="submit" name="test2btn" value="test2btn"/>
 			</form>	 
+			<a href="home.php">hi</a>
 		</main>
 	</body>
 </html>
