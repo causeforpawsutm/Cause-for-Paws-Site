@@ -10,10 +10,10 @@
 
   <title>Cause for Paws</title>
   <!-- Bootstrap core CSS -->
-  <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../vendor/bootstrap/css/bootstrap.min.css">
 
   <!-- Custom styles for this template -->
-  <link href="../stylesheets/scrolling-nav.css" rel="stylesheet">
+  <link href="../stylesheets/scrolling-nav.css">
 
 </head>
 
