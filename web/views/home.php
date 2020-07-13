@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="Andi Fan, Kim Le">
 
-  <title>Cause for Paws/title>
+  <title>Cause for Paws</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
