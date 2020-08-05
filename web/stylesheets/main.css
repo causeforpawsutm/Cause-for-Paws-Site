@@ -34,3 +34,7 @@
 .jumbotron .lang-logo img {
   max-width: 100%;
 }
+
+.bg-header {
+  background: url(../../../web/images/heroIMG.jpg) !important;
+}
