@@ -6727,7 +6727,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background: url(../../../web/images/heroIMG.jpg) !important;
+  background-color: #8e5ea7 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
