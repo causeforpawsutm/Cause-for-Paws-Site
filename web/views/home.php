@@ -55,7 +55,7 @@
     </div>
   </nav>
 
-  <header class="bg-primary text-white" id="bg-header">
+  <header class="text-white" id="bg-header">
     <div class="container text-center bg-header">
       <h1>Cause For Paws</h1>
       <p class="lead">A short description or slogan about the club</p>
