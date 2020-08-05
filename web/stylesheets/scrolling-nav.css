@@ -12,5 +12,5 @@ section {
 }
 
 #bg-header {
-  background: url(/web/images/heroIMG.jpg) !important;
+  background: url("../images/heroIMG.jpg") !important;
 }
