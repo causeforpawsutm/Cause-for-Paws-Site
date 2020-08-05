@@ -6727,7 +6727,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-image: url(../../../web/images/heroIMG.jpg) !important;
+  background: url(../../../web/images/heroIMG.jpg) !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
