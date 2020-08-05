@@ -10,3 +10,6 @@ header {
 section {
   padding: 150px 0;
 }
+#bg-header {
+  background: url('/web/images/heroIMG.jpg') !important;
+}
