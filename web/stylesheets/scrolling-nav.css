@@ -13,4 +13,5 @@ section {
 
 #bg-header {
   background-image: url("heroIMG.jpg") !important;
+  background-size: cover;
 }
