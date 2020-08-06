@@ -13,6 +13,6 @@ section {
 
 #bg-header {
   background-image: url("heroIMG.jpg") !important;
-  height: 100%;
-  width: auto;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
