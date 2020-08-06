@@ -58,7 +58,7 @@
   <header class="text-white" id="bg-header" style="background-image:url('../stylesheets/heroIMG.jpg')">
     <div class="container text-center bg-header">
       <h1>Cause For Paws</h1>
-      <p class="lead">A short description or slogan about the club buster2</p>
+      <p class="lead">A short description or slogan about the club buster23</p>
     </div>
   </header>
 
