@@ -32,7 +32,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause For Paws</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -57,6 +57,7 @@
 
   <header class="text-white" id="bg-header" style="background-image:url('../stylesheets/heroIMG.jpg')">
     <div class="container text-center bg-header">
+      <img src="../images/med_logo_transparent.png">
       <h1>Cause For Paws</h1>
       <p class="lead">A short description or slogan about the club buster</p>
     </div>
