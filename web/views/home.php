@@ -99,7 +99,8 @@ if($_POST["submit"]) {
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Events</h2>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+		  <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+		  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FToronto&amp;src=YW5kaS5mYW5AZ21haWwuY29t&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;src=bnM0aWo1YWUxY285NjgycjFwYW00anVoYmdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=MjBvZWs4b2s4aGtjYnJ2Nm8wOG05czZmdDRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4uY2FuYWRpYW4jaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%234285F4&amp;color=%23F6BF26&amp;color=%237CB342&amp;color=%23F4511E&amp;color=%23039BE5&amp;color=%23F6BF26&amp;showTitle=0&amp;showNav=1&amp;mode=MONTH&amp;showCalendars=0&amp;showTabs=1&amp;showTz=0&amp;showDate=1&amp;showPrint=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
         </div>
       </div>
     </div>
