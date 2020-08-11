@@ -100,8 +100,7 @@ if($_POST["submit"]) {
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Events</h2>
 		  <p class="lead"></p>
-		  <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showTitle=0&amp;showNav=1&amp;mode=WEEK&amp;showCalendars=0&amp;showTabs=1&amp;showTz=0&amp;showDate=1&amp;showPrint=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>      </div>
-    </div>
+		  <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>    </div>
   </section>
 
   <section id="resources">
