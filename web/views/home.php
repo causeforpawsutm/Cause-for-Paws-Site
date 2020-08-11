@@ -114,10 +114,21 @@ if($_POST["message"]) {
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
 		  <p class="lead"></p>
-		  <form method="post" action="contact.php">
-    		<textarea name="message"></textarea>
-    		<input type="submit">
-		  </form>
+		  <?=$thankYou ?>
+
+    <form method="post" action="contact.php">
+        <label>Name:</label>
+        <input name="sender">
+
+        <label>Email address:</label>
+        <input name="senderEmail">
+
+        <label>Message:</label>
+        <textarea rows="5" cols="20" name="message"></textarea>
+
+        <input type="submit" name="submit">
+	</form>
+	
         </div>
       </div>
     </div>
