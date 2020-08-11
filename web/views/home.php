@@ -107,7 +107,11 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
-          <p class="lead"></p>
+		  <p class="lead"></p>
+		  <form method="post" action="contact.php">
+    		<textarea name="message"></textarea>
+    		<input type="submit">
+		  </form>
         </div>
       </div>
     </div>
