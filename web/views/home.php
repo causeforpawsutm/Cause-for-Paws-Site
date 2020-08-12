@@ -106,9 +106,9 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
-          <a class="text-center" href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a> 
+          <a class="lead" href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a> 
           <br>
-          <a class="text-center" href = "mailto: andi.fan@gmail.com">Email Us!</a>
+          <a class="lead" href = "mailto: andi.fan@gmail.com">Email Us!</a>
 		  <p class="lead"></p>
 		  
 	
