@@ -107,7 +107,8 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
           <a href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a> 
-          <a href = "mailto: andi.fan@gmail.com">Send Email</a>
+          <br>
+          <a href = "mailto: andi.fan@gmail.com">Email Us!</a>
 		  <p class="lead"></p>
 		  
 	
