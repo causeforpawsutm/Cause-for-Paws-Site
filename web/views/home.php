@@ -76,7 +76,7 @@
     </div>
   </section>
 
-  <section id="events" class="bg-light">
+  <section id="events">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 mx-auto">
