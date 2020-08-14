@@ -1,0 +1,17 @@
+header {
+  padding: 206px 0 150px;
+}
+
+section {
+  padding: 150px 0;
+}
+
+#bg-header {
+  background-image: url("heroIMG.jpg") !important;
+  background-size: cover;
+  background-position: center;
+}
+
+#events {
+  color: #ffffff;
+}

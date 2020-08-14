@@ -17,7 +17,7 @@
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
 
   <!-- Custom styles for this template -->
-  <link href="../stylesheets/scrolling-nav.css" rel="stylesheet">
+  <link href="../stylesheets/style.css" rel="stylesheet">
 
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -33,7 +33,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div class="container">
-    <img class="js-scroll-trigger" src="../images/logo.svg" width="50px">
+    <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
 	  <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,7 +48,7 @@
             <a class="nav-link js-scroll-trigger" href="#events">Events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#resources">Resources</a>
+            <a class="nav-link js-scroll-trigger" href="#sponsors">Sponsors</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
@@ -58,11 +58,11 @@
     </div>
   </nav>
 
-  <header class="text-white" id="bg-header" style="background-image:url('../stylesheets/heroIMG.jpg')">
+  <header class="text-white" id="bg-header">
     <div class="container text-center bg-header">
       <!--<img src="../images/logo.svg" width="150px"> -->
       <h1>Cause For Paws</h1>
-      <p class="lead">A short description or slogan about the club buster</p>
+      <h3>Giving a voice to the voiceless</h3>
     </div>
   </header>
 
@@ -72,6 +72,23 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">About us</h2>
           <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+          <div class="accordion" id="accordion-team">
+            <div class="card">
+              <div class="card-header" id="heading-team">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
+                    Meet the team
+                  </button>
+                </h2>
+              </div>
+
+              <div id="team" aria-labelledby="heading-team" data-parent="#accordion-team">
+                <div class="card-body">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -82,7 +99,7 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Events</h2>
-      <p class="lead"></p>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
       <p class="text-center">
       <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
       </p>
@@ -91,26 +108,69 @@
 </div>
   </section>
 
-  <section id="resources">
+  <section id="sponsors">
     <div class="container">
       <div class="col-lg-8 mx-auto">
-          <h2 class="text-center">Resources</h2>
-          <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
-          <div class="row">
-          <div class="col-md-4 p-3 resource-item">
-            <img class="img-fluid mb-3" src="../images/placeholder.png">
-            <h5 class="text-center">Name of organization</h5>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor.</p>
+        <h2 class="text-center">Sponsors</h2>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+        <div class="row">
+          <div class="col-md-5 m-3 p-0 mx-auto card">
+            <img class="card-img" src="../images/ontariospca-logo.jpg">
+            <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
+            <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity, established in 1873. The Society and its network of communities facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. Offering a variety of mission-based programs, including community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education, the Ontario SPCA is Ontario’s animal charity.</p>
           </div>
-          <div class="col-md-4 p-3 resource-item">
-            <img class="img-fluid mb-3" src="../images/placeholder.png">
-            <h5 class="text-center">Name of organization</h5>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor.</p>
+          <div class="col-md-5 m-3 p-0 mx-auto card">
+            <img class="card-img" src="../images/mhs-logo.jpg">
+            <h5 class="card-title text-center"><a href="#">Mississauga Humane Society</a></h5>
+            <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They serve the city of Mississauga, and beyond to create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have. We advocate for better laws, educate the public on behaviour and vet care, and we take in and provide refuge for animals in need.</p>
           </div>
-          <div class="col-md-4 p-3 resource-item">
-            <img class="img-fluid mb-3" src="../images/placeholder.png">
-            <h5 class="text-center">Name of organization</h5>
-            <p  class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor.</p>
+        </div>
+        <h4 class="text-center">Other ways to help</h2>
+        <div class="row">
+          <div class="accordion" id="accordion-resources">
+            <div class="card">
+              <div class="card-header" id="headingOne">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
+                    Charity #1
+                  </button>
+                </h2>
+              </div>
+
+              <div id="resource-one" class="collapse" aria-labelledby="headingOne" data-parent="#accordion-resources">
+                <div class="card-body">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingTwo">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
+                    Charity #2
+                  </button>
+                </h2>
+              </div>
+              <div id="resource-two" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-resources">
+                <div class="card-body">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header" id="headingThree">
+                <h2 class="mb-0">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
+                    Charity #3
+                  </button>
+                </h2>
+              </div>
+              <div id="resource-three" class="collapse" aria-labelledby="headingThree" data-parent="#accordion-resources">
+                <div class="card-body">
+                  Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
