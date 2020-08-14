@@ -118,11 +118,13 @@
             <img class="card-img" src="../images/ontariospca-logo.jpg">
             <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
             <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education.</p>
+            <a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn">Website</button>
           </div>
           <div class="col-md-5 m-3 p-0 mx-auto card">
             <img class="card-img" src="../images/mhs-logo.jpg">
-            <h5 class="card-title text-center"><a href="#">Mississauga Humane Society</a></h5>
+            <h5 class="card-title text-center">Mississauga Humane Society</h5>
             <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
+            <a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn">Website</button>
           </div>
         </div>
         <h4 class="text-center m-5">Other ways to help</h2>

@@ -168,7 +168,7 @@ sup {
 }
 
 a {
-	color: #007bff;
+	color: ##8e5ea7;
 	text-decoration: none;
 	background-color: transparent
 }
@@ -2673,7 +2673,7 @@ textarea.form-control.is-invalid {
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-	background-color: transparent;
+	background-color: #8e5ea7;
 	border: 1px solid transparent;
 	padding: .375rem .75rem;
 	font-size: 1rem;
