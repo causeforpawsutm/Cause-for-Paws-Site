@@ -75,8 +75,8 @@
           <div class="accordion mt-4" id="accordion-team">
             <div class="card">
               <div class="card-header" id="heading-team">
-                <h2 class="mb-0">
-                  <button class="btn btn-link collapsed text-center text-center" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
+                <h2 class="mb-0 text-center">
+                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
                     Meet the team
                   </button>
                 </h2>
@@ -118,21 +118,21 @@
             <img class="card-img" src="../images/ontariospca-logo.jpg">
             <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
             <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education.</p>
-            <a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn">Website</button>
+            <a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn">Website</button></a>
           </div>
           <div class="col-md-5 m-3 p-0 mx-auto card">
             <img class="card-img" src="../images/mhs-logo.jpg">
             <h5 class="card-title text-center">Mississauga Humane Society</h5>
             <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
-            <a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn">Website</button>
+            <a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn">Website</button></a>
           </div>
         </div>
         <h4 class="text-center m-5">Other ways to help</h2>
           <div class="accordion" id="accordion-resources">
             <div class="card">
               <div class="card-header" id="headingOne">
-                <h2 class="mb-0">
-                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
+                <h2 class="mb-0 text-center">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
                     Charity #1
                   </button>
                 </h2>
@@ -146,8 +146,8 @@
             </div>
             <div class="card">
               <div class="card-header" id="headingTwo">
-                <h2 class="mb-0">
-                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
+                <h2 class="mb-0 text-center">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
                     Charity #2
                   </button>
                 </h2>
@@ -160,8 +160,8 @@
             </div>
             <div class="card">
               <div class="card-header" id="headingThree">
-                <h2 class="mb-0">
-                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
+                <h2 class="mb-0 text-center">
+                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
                     Charity #3
                   </button>
                 </h2>
