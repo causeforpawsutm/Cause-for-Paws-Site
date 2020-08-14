@@ -90,26 +90,24 @@
 
   <section id="resources">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-8 mx-auto">
+      <div class="row col-lg-8 mx-auto">
           <h2 class="text-center">Resources</h2>
           <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
-          <div class="col-sm resource">
+          <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
           </div>
-          <div class="col-sm resource">
+          <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
             <p> class="text-center"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
           </div>
-          <div class="col-sm resource">
+          <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
             <p  class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
           </div>
-        </div>
       </div>
     </div>
   </section>
