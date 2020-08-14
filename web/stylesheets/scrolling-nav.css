@@ -21,8 +21,9 @@ section {
   color: #ffffff;
 }
 
-.resource {
+.resource-item {
   background-color: #f7f7f7;
+  font-size:0.9rem;
   -webkit-box-shadow: 4px 3px 10px -4px rgba(0,0,0,0.18);
   -moz-box-shadow: 4px 3px 10px -4px rgba(0,0,0,0.18);
   box-shadow: 4px 3px 10px -4px rgba(0,0,0,0.18);
