@@ -11,7 +11,7 @@
 
   <title>Cause for Paws</title>
   <!-- Bootstrap core CSS -->
-  <link href="../stylesheets/bootstrap.min.css" rel="stylesheet"> 
+  <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
   <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
   <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
   <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
@@ -34,8 +34,8 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div class="container">
     <img class="js-scroll-trigger" src="../images/logo.svg" width="50px">
-	  <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a> 
-	  
+	  <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a>
+
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -84,7 +84,7 @@
           <h2 class="text-center">Events</h2>
       <p class="lead"></p>
       <p class="text-center">
-      <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>  
+      <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
       </p>  </div>
   </section>
 
@@ -94,11 +94,21 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Resources</h2>
           <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
-          <ul>
-            <li>Resource 1</li>
-            <li>Resource 2</li>
-            <li>Resource 3</li>
-</ul>
+          <div class="col-md-4 resource">
+            <img class="full-width img-responsive" src="../images/placeholder.png">
+            <h4>Name of organization</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+          </div>
+          <div class="col-md-4 resource">
+            <img class="full-width img-responsive" src="../images/placeholder.png">
+            <h4>Name of organization</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+          </div>
+          <div class="col-md-4 resource">
+            <img class="full-width img-responsive" src="../images/placeholder.png">
+            <h4>Name of organization</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+          </div>
         </div>
       </div>
     </div>
@@ -110,13 +120,13 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
           <p class="text-center">
-          <a class="text-center" href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a> 
+          <a class="text-center" href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a>
           <br>
           <a class="text-center" href = "mailto: andi.fan@gmail.com">Email Us!</a>
         </p>
 		  <p class="lead"></p>
-		  
-	
+
+
         </div>
       </div>
     </div>
