@@ -2666,14 +2666,14 @@ textarea.form-control.is-invalid {
 .btn {
 	display: inline-block;
 	font-weight: 400;
-	color: #212529;
+	color: #ffffff;
 	text-align: center;
 	vertical-align: middle;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
-	background-color: #8e5ea7;
+	background-color: transparent;
 	border: 1px solid transparent;
 	padding: .375rem .75rem;
 	font-size: 1rem;
@@ -2711,6 +2711,18 @@ textarea.form-control.is-invalid {
 a.btn.disabled,
 fieldset:disabled a.btn {
 	pointer-events: none
+}
+
+.btn-main {
+	color: #fff;
+	background-color: #a078b5;
+	border-color: #a078b5;
+}
+
+.btn-main:hover {
+	color: #fff;
+	background-color: #8e5ea7;
+	border-color: #8e5ea7;
 }
 
 .btn-primary {
