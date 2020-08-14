@@ -82,7 +82,7 @@
                 </h2>
               </div>
 
-              <div id="team" aria-labelledby="heading-team" data-parent="#accordion-team">
+              <div id="team" class="collapse" aria-labelledby="heading-team" data-parent="#accordion-team">
                 <div class="card-body">
                   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
                 </div>
@@ -125,7 +125,7 @@
             <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They serve the city of Mississauga, and beyond to create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have. We advocate for better laws, educate the public on behaviour and vet care, and we take in and provide refuge for animals in need.</p>
           </div>
         </div>
-        <h4 class="text-center">Other ways to help</h2>
+        <h4 class="text-center m-5">Other ways to help</h2>
         <div class="row">
           <div class="accordion" id="accordion-resources">
             <div class="card">
