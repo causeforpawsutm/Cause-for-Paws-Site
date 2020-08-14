@@ -85,14 +85,18 @@
       <p class="lead"></p>
       <p class="text-center">
       <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar" style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
-      </p>  </div>
+      </p>
+    </div>
+  </div>
+</div>
   </section>
 
   <section id="resources">
     <div class="container">
-      <div class="row col-lg-8 mx-auto">
+      <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Resources</h2>
           <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+          <div class="row">
           <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
@@ -101,13 +105,14 @@
           <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
-            <p> class="text-center"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
           </div>
           <div class="col-md-4 resource">
             <img class="img-fluid" src="../images/placeholder.png">
             <h5 class="text-center">Name of organization</h5>
             <p  class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
           </div>
+        </div>
       </div>
     </div>
   </section>
