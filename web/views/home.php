@@ -72,11 +72,11 @@
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">About us</h2>
           <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-          <div class="accordion" id="accordion-team">
+          <div class="accordion mt-4" id="accordion-team">
             <div class="card">
               <div class="card-header" id="heading-team">
                 <h2 class="mb-0">
-                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
+                  <button class="btn btn-link collapsed text-center text-center" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
                     Meet the team
                   </button>
                 </h2>
@@ -117,21 +117,20 @@
           <div class="col-md-5 m-3 p-0 mx-auto card">
             <img class="card-img" src="../images/ontariospca-logo.jpg">
             <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
-            <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity, established in 1873. The Society and its network of communities facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. Offering a variety of mission-based programs, including community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education, the Ontario SPCA is Ontario’s animal charity.</p>
+            <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education.</p>
           </div>
           <div class="col-md-5 m-3 p-0 mx-auto card">
             <img class="card-img" src="../images/mhs-logo.jpg">
             <h5 class="card-title text-center"><a href="#">Mississauga Humane Society</a></h5>
-            <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They serve the city of Mississauga, and beyond to create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have. We advocate for better laws, educate the public on behaviour and vet care, and we take in and provide refuge for animals in need.</p>
+            <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
           </div>
         </div>
         <h4 class="text-center m-5">Other ways to help</h2>
-        <div class="row">
           <div class="accordion" id="accordion-resources">
             <div class="card">
               <div class="card-header" id="headingOne">
                 <h2 class="mb-0">
-                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
+                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
                     Charity #1
                   </button>
                 </h2>
@@ -146,7 +145,7 @@
             <div class="card">
               <div class="card-header" id="headingTwo">
                 <h2 class="mb-0">
-                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
+                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
                     Charity #2
                   </button>
                 </h2>
@@ -160,7 +159,7 @@
             <div class="card">
               <div class="card-header" id="headingThree">
                 <h2 class="mb-0">
-                  <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
+                  <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
                     Charity #3
                   </button>
                 </h2>
@@ -172,7 +171,6 @@
               </div>
             </div>
           </div>
-        </div>
       </div>
     </div>
   </section>
