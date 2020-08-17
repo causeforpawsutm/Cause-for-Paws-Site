@@ -182,14 +182,15 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-center">Contact us</h2>
-          <p class="text-center">
-          <a class="text-center" href="https://www.instagram.com/causeforpawsutm/?igshid=g513oztqntu6">Instagram</a>
-          <br>
-          <a class="text-center" href = "mailto: andi.fan@gmail.com">Email Us!</a>
-        </p>
-		  <p class="lead"></p>
-
-
+          <p>Please don't hesitate to contact us for more information regarding the club! We'd love to hear your suggestions and answer your questions.</p>
+          <div class="row justify-content-center col-md-8 mx-auto text-center">
+            <div class="col mx-auto">
+              <a href="https://www.instagram.com/causeforpawsutm/"><button class="btn btn-main">Instagram</button></a>
+            </div>
+            <div class="col mx-auto">
+              <a href="mailto:causeforpawutm@outlook.com"><button class="btn btn-main">Email</button></a>
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -20,4 +20,7 @@ section {
     background-image: url(/images/contact-heroIMG);
     background-size: cover;
     background-position: center;
+    h2{
+        color:#ffffff;
+    }
 }
