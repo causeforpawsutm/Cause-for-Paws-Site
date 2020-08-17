@@ -113,20 +113,22 @@
       <div class="col-lg-8 mx-auto">
         <h2 class="text-center">Sponsors</h2>
         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.</p>
-        <div class="row">
-          <div class="col-md-5 m-3 p-0 mx-auto card">
-            <img class="card-img" src="../images/ontariospca-logo.jpg">
-            <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
-            <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education.</p>
-            <p class="card-body text-center"><a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></p>
-          </div>
-          <div class="col-md-5 m-3 p-0 mx-auto card">
-            <img class="card-img" src="../images/mhs-logo.jpg">
-            <h5 class="card-title text-center">Mississauga Humane Society</h5>
-            <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
-            <p class="card-body text-center"><a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></p>
-          </div>
+      </div>
+      <div class="row col-md-11 mx-auto">
+        <div class="col-md-5 m-3 p-0 mx-auto card">
+          <img class="mx-auto" width="70%" src="../images/ontariospca-logo.jpg">
+          <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
+          <p class="card-body text-center">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy, Indigenous partnership programs and humane education.</p>
+          <div class="card-body align-self-end mx-auto"><a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
         </div>
+        <div class="col-md-5 m-3 p-0 mx-auto card">
+          <img class="mx-auto" width="70%" src="../images/mhs-logo.jpg">
+          <h5 class="card-title text-center">Mississauga Humane Society</h5>
+          <p class="card-body text-center">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
+          <div class="card-body align-self-end mx-auto"><a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
+        </div>
+      </div>
+      <div class="col-lg-8 mx-auto">
         <h4 class="text-center m-5">Other ways to help</h2>
           <div class="accordion" id="accordion-resources">
             <div class="card">
