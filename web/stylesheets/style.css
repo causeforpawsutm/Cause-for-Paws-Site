@@ -10,10 +10,20 @@ section {
   background-image: url("heroIMG.jpg") !important;
   background-size: cover;
   background-position: center;
+  h3 {
+    font-weight: 200;
+    font-style: italic;
+  }
 }
 
 #events {
   color: #ffffff;
+}
+
+#sponsors {
+    h5 {
+        color:#a078b5;
+    }
 }
 
 #contact {
