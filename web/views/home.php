@@ -64,62 +64,62 @@
                   <div class="row">
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Ginuha Radha</h4>
-                          <h5>President</h5>
+                          <h6>Ginuha Radha</h6>
+                          <p>President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Jocelyn Kao</h4>
-                          <h5>Co-President</h5>
+                          <h6>Jocelyn Kao</h6>
+                          <p>Co-President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Jessie Bui</h4>
-                          <h5>Vice President</h5>
+                          <h6>Jessie Bui</h6>
+                          <p>Vice President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Maryam Yousefi</h4>
-                          <h5>VP of External Affairs</h5>
-                      </div>
-                  </div>
-                  <div class="row">
-                      <div class="col-xs-12 col-sm-2 col-md-4">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Paola Flores</h4>
-                          <h5>VP of Internal Affairs</h5>
-                      </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Serena Wong</h4>
-                          <h5>VP of Marketing</h5>
-                      </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Alyssa Santiago</h4>
-                          <h5>VP of Marketing</h5>
-                      </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Savera Zahid</h4>
-                          <h5>VP of Finance</h5>
+                          <h6>Maryam Yousefi</h6>
+                          <p>VP of External Affairs</p>
                       </div>
                   </div>
                   <div class="row">
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Sarah Lutka</h4>
-                          <h5>VP of Finance</h5>
+                          <h6>Paola Flores</h6>
+                          <p>VP of Internal Affairs</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Kim Le</h4>
-                          <h5>Web Developer</h5>
+                          <h6>Serena Wong</h6>
+                          <p>VP of Marketing</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-4">
                           <img src="../images/team-placeholder.png" width="100px">
-                          <h4>Andi Fan</h4>
-                          <h5>Web Developer</h5>
+                          <h6>Alyssa Santiago</h6>
+                          <p>VP of Marketing</p>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h6>Savera Zahid</h6>
+                          <p>VP of Finance</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h6>Sarah Lutka</h6>
+                          <p>VP of Finance</p>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h6>Kim Le</h6>
+                          <p>Web Developer</p>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h6>Andi Fan</h6>
+                          <p>Web Developer</p>
                       </div>
                   </div>
                 </div>
@@ -161,7 +161,7 @@
             </div>
             <div class="col-lg-8 mx-auto">
                <h4 class="text-center m-5">
-               Other ways to help</h2>
+               Other ways to help</h4>
                <div class="accordion" id="accordion-resources">
                   <div class="card">
                      <div class="card-header" id="headingOne">
