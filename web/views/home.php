@@ -60,25 +60,71 @@
                <div class="col-lg-8 mx-auto">
                   <h2 class="text-center">About us</h2>
                   <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-                  <div class="accordion mt-4" id="accordion-team">
-                     <div class="card">
-                        <div class="card-header" id="heading-team">
-                           <h2 class="mb-0 text-center">
-                              <button class="btn btn-link collapsed text-center" type="button" data-toggle="collapse" data-target="#team" aria-expanded="false" aria-controls="team">
-                              Meet the team
-                              </button>
-                           </h2>
-                        </div>
-                        <div id="team" class="collapse" aria-labelledby="heading-team" data-parent="#accordion-team">
-                           <div class="card-body">
-                              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                           </div>
-                        </div>
-                     </div>
+                  <h3>CauseForPaws Team</h3>
+                  <div class="row">
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Ginuha Radha</h4>
+                          <h5>President</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Jocelyn Kao</h4>
+                          <h5>Co-President</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Jessie Bui</h4>
+                          <h5>Vice President</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Maryam Yousefi</h4>
+                          <h5>VP of External Affairs</h5>
+                      </div>
                   </div>
-               </div>
+                  <div class="row">
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Paola Flores</h4>
+                          <h5>VP of Internal Affairs</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Serena Wong</h4>
+                          <h5>VP of Marketing</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Alyssa Santiago</h4>
+                          <h5>VP of Marketing</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Savera Zahid</h4>
+                          <h5>VP of Finance</h5>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Sarah Lutka</h4>
+                          <h5>VP of Finance</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Kim Le</h4>
+                          <h5>Web Developer</h5>
+                      </div>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px">
+                          <h4>Andi Fan</h4>
+                          <h5>Web Developer</h5>
+                      </div>
+                  </div>
+                </div>
             </div>
-         </div>
+        </div>
       </section>
       <section id="events" class="bg-light">
          <div class="container">
