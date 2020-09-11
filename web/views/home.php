@@ -63,63 +63,52 @@
                   <h3>CauseForPaws Team</h3>
                   <div class="row text-center">
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Ginuha Radha</h6>
-                          <p>President</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Ginuha Radha</strong><br>President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Jocelyn Kao</h6>
-                          <p>Co-President</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Jocelyn Kao</strong><br>Co-President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Jessie Bui</h6>
-                          <p>Vice President</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Jessie Bui</strong><br>Vice President</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Maryam Yousefi</h6>
-                          <p>VP of External Affairs</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Maryam Yousefi</strong><br>VP of External Affairs</p>
                       </div>
                   </div>
-                  <div class="row">
+                  <div class="row text-center">
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Paola Flores</h6>
-                          <p>VP of Internal Affairs</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Paola Flores</strong><br>VP of Internal Affairs</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Serena Wong</h6>
-                          <p>VP of Marketing</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Serena Wong</strong><br>VP of Marketing</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Alyssa Santiago</h6>
-                          <p>VP of Marketing</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Alyssa Santiago</strong><br>VP of Marketing</p>
                       </div>
                       <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Savera Zahid</h6>
-                          <p>VP of Finance</p>
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Savera Zahid</strong><br>VP of Finance</p>
                       </div>
                   </div>
-                  <div class="row">
-                      <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Sarah Lutka</h6>
-                          <p>VP of Finance</p>
+                  <div class="row text-center">
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Sarah Lutka</strong><br>VP of Finance</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Kim Le</h6>
-                          <p>Web Developer</p>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Kim Le</strong><br>Web Developer</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-3">
-                          <img src="../images/team-placeholder.png" width="100px">
-                          <h6>Andi Fan</h6>
-                          <p>Web Developer</p>
+                      <div class="col-xs-12 col-sm-2 col-md-4">
+                          <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                          <p><strong>Andi Fan</strong><br>Web Developer</p>
                       </div>
                   </div>
                 </div>
