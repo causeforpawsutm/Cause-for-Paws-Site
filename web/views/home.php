@@ -61,62 +61,62 @@
                   <h2 class="text-center">About us</h2>
                   <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
                   <h3>CauseForPaws Team</h3>
-                  <div class="row">
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                  <div class="row text-center">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Ginuha Radha</h6>
                           <p>President</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Jocelyn Kao</h6>
                           <p>Co-President</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Jessie Bui</h6>
                           <p>Vice President</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Maryam Yousefi</h6>
                           <p>VP of External Affairs</p>
                       </div>
                   </div>
                   <div class="row">
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Paola Flores</h6>
                           <p>VP of Internal Affairs</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Serena Wong</h6>
                           <p>VP of Marketing</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Alyssa Santiago</h6>
                           <p>VP of Marketing</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Savera Zahid</h6>
                           <p>VP of Finance</p>
                       </div>
                   </div>
                   <div class="row">
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Sarah Lutka</h6>
                           <p>VP of Finance</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Kim Le</h6>
                           <p>Web Developer</p>
                       </div>
-                      <div class="col-xs-12 col-sm-2 col-md-4">
+                      <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px">
                           <h6>Andi Fan</h6>
                           <p>Web Developer</p>
