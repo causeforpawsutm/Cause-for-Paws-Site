@@ -111,7 +111,7 @@
                           <img src="../images/team-placeholder.png" width="100px" class="my-2">
                           <p><strong>Andi Fan</strong><br>Web Developer</p>
                       </div>
-                      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
+                      <p class="lead">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
                   </div>
                 </div>
             </div>
