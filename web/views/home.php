@@ -8,6 +8,7 @@
       <title>Cause for Paws</title>
       <!-- Bootstrap core CSS -->
       <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
       <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
       <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
          <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
@@ -60,7 +61,7 @@
                <div class="col-lg-8 mx-auto">
                   <h2 class="text-center">About us</h2>
                   <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-                  <h3>CauseForPaws Team</h3>
+                  <h3 class="text-center mt-5 mb-3">Our Team</h3>
                   <div class="row text-center">
                       <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px" class="my-2">
@@ -110,6 +111,7 @@
                           <img src="../images/team-placeholder.png" width="100px" class="my-2">
                           <p><strong>Andi Fan</strong><br>Web Developer</p>
                       </div>
+                      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
                   </div>
                 </div>
             </div>
