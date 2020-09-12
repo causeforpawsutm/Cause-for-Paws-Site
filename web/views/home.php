@@ -61,7 +61,7 @@
                <div class="col-lg-8 mx-auto">
                   <h2 class="text-center">About us</h2>
                   <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut optio velit inventore, expedita quo laboriosam possimus ea consequatur vitae, doloribus consequuntur ex. Nemo assumenda laborum vel, labore ut velit dignissimos.</p>
-                  <h3 class="text-center mt-5 mb-3">Our Team</h3>
+                  <h3 class="text-center mt-5 mb-4">Our Team</h3>
                   <div class="row text-center">
                       <div class="col-xs-12 col-sm-2 col-md-3">
                           <img src="../images/team-placeholder.png" width="100px" class="my-2">
@@ -111,7 +111,7 @@
                           <img src="../images/team-placeholder.png" width="100px" class="my-2">
                           <p><strong>Andi Fan</strong><br>Web Developer</p>
                       </div>
-                      <p class="lead">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
+                      <p class="my-3 text-center">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
                   </div>
                 </div>
             </div>
