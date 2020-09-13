@@ -30,16 +30,17 @@ h3 .subtitle{
     background-position: center;
     color:#ffffff;
 }
-.row-striped:nth-of-type(odd){
+.event:nth-of-type(odd){
   background-color: #efefef;
   border-left: 4px #000000 solid;
 }
 
-.row-striped:nth-of-type(even){
+.event:nth-of-type(even){
   background-color: #ffffff;
   border-left: 4px #efefef solid;
 }
 
-.row-striped {
-    padding: 15px 0;
+.event{
+    padding: 15px;
+    color: #162521;
 }

@@ -142,34 +142,94 @@
             </div>
             <div class="row">
                 <div class="container card text-left">
-                    <div class="row row-striped">
-                        <div class="col-2 text-right">
+                    <div class="row event">
+                        <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
-                            <h2>OCT</h2>
+                            <h2>SEPT</h2>
                         </div>
                         <div class="col-10">
-                            <h4 class="text-uppercase"><strong>Ice Cream Social</strong></h3>
+                            <h4>Cause for Paws Virtual Welcome</h4>
                             <ul class="list-inline">
-                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Monday</li>
-                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 12:30 PM - 2:00 PM</li>
-                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Cafe</li>
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Wednesday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Zoom Meeting</li>
                             </ul>
-                            <p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>To create a space for members to meet and connect. Get to know the Cause for Paws team better through icebreaker events.</p>
                         </div>
                     </div>
-                    <div class="row row-striped">
-                        <div class="col-2 text-right">
-                            <h1 class="display-4"><span class="badge badge-secondary">27</span></h1>
+                    <div class="row event">
+                        <div class="col-2 text-left">
+                            <h1 class="display-4"><span class="badge badge-secondary">10</span></h1>
                             <h2>OCT</h2>
                         </div>
                         <div class="col-10">
-                            <h4 class="text-uppercase"><strong>Operations Meeting</strong></h3>
+                            <h4>Animals Seminar (with raffle)</h4>
                             <ul class="list-inline">
-                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Friday</li>
-                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 2:30 PM - 4:00 PM</li>
-                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Room 4019</li>
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Saturday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Zoom Meeting</li>
                             </ul>
-                            <p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <p>Join this online seminar about animals and participate in a raffle! Learn more about what we do and who we are fundraising for shelters.</p>
+                        </div>
+                    </div>
+                    <div class="row event">
+                        <div class="col-2 text-left">
+                            <h1 class="display-4"><span class="badge badge-secondary">05</span></h1>
+                            <h2>NOV</h2>
+                        </div>
+                        <div class="col-10">
+                            <h4>Virtual Fundraising Marathon</h4>
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Thursday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> TBD</li>
+                            </ul>
+                            <p>Members will walk and/or run a mile for every $10 donation that is made to our sponsors.</p>
+                        </div>
+                    </div>
+                    <div class="row event">
+                        <div class="col-2 text-left">
+                            <h1 class="display-4"><span class="badge badge-secondary">21</span></h1>
+                            <h2>JAN</h2>
+                        </div>
+                        <div class="col-10">
+                            <h4>Animal-Themed Bake Sale</h4>
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Thursday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> UTM (TBD)</li>
+                            </ul>
+                            <p>All baked goods sales will be donated to animal charities and organizations.</p>
+                        </div>
+                    </div>
+                    <div class="row event">
+                        <div class="col-2 text-left">
+                            <h1 class="display-4"><span class="badge badge-secondary">15</span></h1>
+                            <h2>FEB</h2>
+                        </div>
+                        <div class="col-10">
+                            <h4>Bring Your Pet to School Day (Awaiting approval)</h4>
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Monday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> UTM (TBD)</li>
+                            </ul>
+                            <p>If approved, Cause for Paws members will bring their pets to school so that students can get hands-on experience.</p>
+                        </div>
+                    </div>
+                    <div class="row event">
+                        <div class="col-2 text-left">
+                            <h1 class="display-4"><span class="badge badge-secondary">15</span></h1>
+                            <h2>APR</h2>
+                        </div>
+                        <div class="col-10">
+                            <h4>Animal Exam Destressor Event</h4>
+                            <ul class="list-inline">
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Thursday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> UTM (TBD)</li>
+                            </ul>
+                            <p>One of our sponsers will bring in various domestic animals that students can touch and play with to destress during exam season.</p>
                         </div>
                     </div>
                 </div>
