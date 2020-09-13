@@ -144,10 +144,8 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-9 mt-4 text-left">
+                <div class="container col-lg-9 text-left mt-4">
                     <h2>2020</h2>
-                </div>
-                <div class="container col-lg-9 text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
@@ -194,10 +192,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-9 mt-4 text-left">
+                <div class="container col-lg-9 text-left mt-4">
                     <h2>2021</h2>
-                </div>
-                <div class="container col-lg-9 text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">21</span></h1>
