@@ -11,6 +11,7 @@
     <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
     <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
          <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
@@ -123,8 +124,8 @@
                             <p><strong>Andi Fan</strong><br>Web Developer</p>
                         </div>
                     </div>
-                    <p class="my-3">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
-                    <a href="https://docs.google.com/document/d/1x3GjCFI1t6YQLdcnh7PAdg1TuNxt-IT2px-gyt9zGvc/edit"><button class="btn btn-main">Join the club</button></a>
+                    <p class="my-3">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link" target="_blank">team profile on Instagram!</a></p>
+                    <a href="https://docs.google.com/document/d/1x3GjCFI1t6YQLdcnh7PAdg1TuNxt-IT2px-gyt9zGvc/edit" target="_blank"><button class="btn btn-main">Join the club</button></a>
                 </div>
             </div>
         </div>
@@ -137,11 +138,38 @@
                     <p class="lead">
                         We will be throwing multiple events with animals, holding virtual events for the Fall semester, and having bake sales which will include vegetarian and vegan-friendly options!
                     </p>
-                    <p>
-                        <iframe
-                            src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar"
-                            style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
-                    </p>
+                    <div class="container">
+		<div class="row row-striped">
+			<div class="col-2 text-right">
+				<h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
+				<h2>OCT</h2>
+			</div>
+			<div class="col-10">
+				<h3 class="text-uppercase"><strong>Ice Cream Social</strong></h3>
+				<ul class="list-inline">
+				    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Monday</li>
+					<li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 12:30 PM - 2:00 PM</li>
+					<li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Cafe</li>
+				</ul>
+				<p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+		<div class="row row-striped">
+			<div class="col-2 text-right">
+				<h1 class="display-4"><span class="badge badge-secondary">27</span></h1>
+				<h2>OCT</h2>
+			</div>
+			<div class="col-10">
+				<h3 class="text-uppercase"><strong>Operations Meeting</strong></h3>
+				<ul class="list-inline">
+				    <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Friday</li>
+					<li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 2:30 PM - 4:00 PM</li>
+					<li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Room 4019</li>
+				</ul>
+				<p>Lorem ipsum dolsit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		</div>
+	</div>
                 </div>
             </div>
         </div>
