@@ -58,15 +58,15 @@
         </div>
     </header>
     <section id="about">
-        <div class="container">
+        <div class="container text-center">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h2 class="text-center">About us</h2>
+                    <h2>About us</h2>
                     <p class="lead">
                         Cause for Paws' primary goal is to fundraise money for shelters such as the Ontario SPCA and the Mississauga Humane Society. We also give students the opportunity to work up-close with animals.
                     </p>
-                    <h3 class="text-center mt-5 mb-4">Our Team</h3>
-                    <div class="row text-center">
+                    <h3 class="mt-5 mb-4">Our Team</h3>
+                    <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-3">
                             <img src="../images/ginuha.png" width="100px" class="my-2">
                             <p><strong>Ginuha Radha</strong><br>President</p>
@@ -84,7 +84,7 @@
                             <p><strong>Maryam Yousefi</strong><br>VP of External Affairs</p>
                         </div>
                     </div>
-                    <div class="row text-center">
+                    <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-3">
                             <img src="../images/paola.png" width="100px" class="my-2">
                             <p><strong>Paola Flores</strong><br>VP of Internal Affairs</p>
@@ -102,7 +102,7 @@
                             <p><strong>Savera Zahid</strong><br>VP of Finance</p>
                         </div>
                     </div>
-                    <div class="row text-center">
+                    <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-4">
                             <img src="../images/team-placeholder.png" width="100px" class="my-2">
                             <p><strong>Sarah Lutka</strong><br>VP of Finance</p>
@@ -116,7 +116,7 @@
                             <p><strong>Andi Fan</strong><br>Web Developer</p>
                         </div>
                         <div class="col-xs-12">
-                            <p class="my-3 text-center">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
+                            <p class="my-3">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
                         </div>
                     </div>
                 </div>
@@ -124,14 +124,14 @@
         </div>
     </section>
     <section id="events" class="bg-light">
-        <div class="container">
+        <div class="container text-center">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
-                    <h2 class="text-center">Events</h2>
+                    <h2>Events</h2>
                     <p class="lead">
                         We will be throwing multiple events with animals, holding virtual events for the Fall semester, and having bake sales which will include vegetarian and vegan-friendly options!
                     </p>
-                    <p class="text-center">
+                    <p>
                         <iframe
                             src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=OTN2b3FoMjhocHFnZzZ1NXZjN3VzaGZ1cjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F6BF26&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showTitle=1&amp;showDate=1&amp;title=Events%20Calendar"
                             style="border:solid 1px #777" width="600" height="400" frameborder="0" scrolling="no"></iframe>
@@ -141,36 +141,36 @@
         </div>
     </section>
     <section id="sponsors">
-        <div class="container">
+        <div class="container text-center">
             <div class="col-lg-8 mx-auto">
-                <h2 class="text-center">Sponsors</h2>
+                <h2>Sponsors</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.
                 </p>
             </div>
             <div class="row col-md-11 mx-auto">
                 <div class="col-md-5 m-3 p-0 mx-auto card">
                     <img class="mx-auto" width="70%" src="../images/ontariospca-logo.jpg">
-                    <h5 class="card-title text-center">Ontario SPCA and Humane Society</h5>
-                    <p class="card-body text-center mb-0">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the
+                    <h5 class="card-title">Ontario SPCA and Humane Society</h5>
+                    <p class="card-body  mb-0">The Ontario SPCA and Humane Society is a registered charity that facilitate and provide for province-wide leadership on matters relating to the prevention of cruelty to animals and the
                         promotion of animal well-being. They offer community-based sheltering, animal wellness services, provincial animal transfers, shelter health & wellness, high-volume spay/neuter services, animal rescue, animal advocacy,
                         Indigenous partnership programs and humane education.</p>
                     <div class="row align-self-end mx-auto py-4"><a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
                 </div>
                 <div class="col-md-5 m-3 p-0 mx-auto card">
                     <img class="mx-auto" width="70%" src="../images/mhs-logo.jpg">
-                    <h5 class="card-title text-center">Mississauga Humane Society</h5>
-                    <p class="card-body text-center mb-0">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at
+                    <h5 class="card-title">Mississauga Humane Society</h5>
+                    <p class="card-body  mb-0">Mississauga Humane Society advocates and cares for companion animals who have been neglected, discarded, given up, and abandoned, who seek shelter, basic necessities, and a second chance at
                         life. They create a network of foster homes, volunteers, and community education programs to reduce the suffering of animals and improve the overall quality of life that companion animals have.</p>
                     <div class="row align-self-end mx-auto py-4"><a href="https://www.mississaugahumanesociety.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
                 </div>
             </div>
             <div class="col-lg-8 mx-auto">
-                <h4 class="text-center m-5">
+                <h4 class="m-5">
                     Other ways to help</h4>
                 <div class="accordion" id="accordion-resources">
                     <div class="card">
                         <div class="card-header" id="headingOne">
-                            <h2 class="mb-0 text-center">
+                            <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
                                     Charity #1
                                 </button>
@@ -186,7 +186,7 @@
                     </div>
                     <div class="card">
                         <div class="card-header" id="headingTwo">
-                            <h2 class="mb-0 text-center">
+                            <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
                                     Charity #2
                                 </button>
@@ -202,7 +202,7 @@
                     </div>
                     <div class="card">
                         <div class="card-header" id="headingThree">
-                            <h2 class="mb-0 text-center">
+                            <h2 class="mb-0">
                                 <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
                                     Charity #3
                                 </button>
@@ -221,12 +221,12 @@
         </div>
     </section>
     <section id="contact" class="bg-light">
-        <div class="container">
+        <div class="container text-center">
             <div class="row">
-                <div class="text-center col-lg-8 mx-auto">
+                <div class="col-lg-8 mx-auto">
                     <h2>Contact us</h2>
-                    <p>Please don't hesitate to contact us for more information regarding the club! We'd love to hear your suggestions and answer your questions.</p>
-                    <div class="row justify-content-center col-md-8 mx-auto text-center">
+                    <p class="lead">Please don't hesitate to contact us for more information regarding the club! We'd love to hear your suggestions and answer your questions.</p>
+                    <div class="row justify-content-center col-md-8 mx-auto">
                         <div class="col mx-auto">
                             <a href="https://www.instagram.com/causeforpawsutm/"><button class="btn btn-main">Instagram</button></a>
                         </div>
