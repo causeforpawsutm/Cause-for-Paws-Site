@@ -144,7 +144,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-3 mt-4">
+                <div class="col-lg-9 mt-4 text-left">
                     <h2>2020</h2>
                 </div>
                 <div class="container col-lg-9 text-left">
@@ -194,7 +194,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 mt-4">
+                <div class="col-lg-9 mt-4 text-left">
                     <h2>2021</h2>
                 </div>
                 <div class="container col-lg-9 text-left">
