@@ -139,12 +139,13 @@
                 <div class="col-lg-8 mx-auto">
                     <h2>Events</h2>
                     <p class="lead">
-                        We will be throwing multiple events with animals, holding virtual events for the Fall semester, and having bake sales which will include vegetarian and vegan-friendly options!
+                        We will be hosting multiple events with animals, holding virtual events for the Fall semester, and having bake sales which will include vegetarian and vegan-friendly options!
                     </p>
                 </div>
             </div>
             <div class="row">
-                <div class="container card text-left">
+                <h3 class="mt-4">2020</h3>
+                <div class="container col-lg-9 text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
@@ -190,6 +191,9 @@
                             <p>Members will walk and/or run a mile for every $10 donation that is made to our sponsors.</p>
                         </div>
                     </div>
+                </div>
+                <h3 class="mt-4">2021</h3>
+                <div class="container card text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">21</span></h1>
@@ -232,7 +236,7 @@
                                 <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
                                 <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> UTM (TBD)</li>
                             </ul>
-                            <p>One of our sponsers will bring in various domestic animals that students can touch and play with to destress during exam season.</p>
+                            <p>One of our sponsors will bring in domestic animals that students can touch and play with to destress during exam season.</p>
                         </div>
                     </div>
                 </div>
