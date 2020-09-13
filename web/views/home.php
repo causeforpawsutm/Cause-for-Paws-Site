@@ -48,6 +48,9 @@
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="#contact">CONTACT</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="https://www.instagram.com/causeforpawsutm/" target="_blank"><i class="fa fa-instagram"  aria-hidden="true"></i></a>
+                    </li>
                 </ul>
             </div>
         </div>
