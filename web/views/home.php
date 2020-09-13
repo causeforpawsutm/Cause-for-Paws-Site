@@ -73,7 +73,7 @@
                 </div>
             </div>
         </div>
-        <div class="container text-center" style="background-color:light;">
+        <div class="container text-center">
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h3 class="mt-5 mb-4">Our Team</h3>
@@ -144,7 +144,9 @@
                 </div>
             </div>
             <div class="row">
-                <h3 class="mt-4">2020</h3>
+                <div class="col-lg-3 mt-4">
+                    <h2>2020</h2>
+                </div>
                 <div class="container col-lg-9 text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
@@ -192,8 +194,10 @@
                         </div>
                     </div>
                 </div>
-                <h3 class="mt-4">2021</h3>
-                <div class="container card text-left">
+                <div class="col-lg-3 mt-4">
+                    <h2>2021</h2>
+                </div>
+                <div class="container col-lg-9 text-left">
                     <div class="row event">
                         <div class="col-2 text-left">
                             <h1 class="display-4"><span class="badge badge-secondary">21</span></h1>
