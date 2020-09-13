@@ -104,7 +104,7 @@
                     </div>
                     <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-4">
-                            <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                            <img src="../images/sarah.png" width="100px" class="my-2">
                             <p><strong>Sarah Lutka</strong><br>VP of Finance</p>
                         </div>
                         <div class="col-xs-12 col-sm-2 col-md-4">
@@ -112,7 +112,7 @@
                             <p><strong>Kim Le</strong><br>Web Developer</p>
                         </div>
                         <div class="col-xs-12 col-sm-2 col-md-4">
-                            <img src="../images/team-placeholder.png" width="100px" class="my-2">
+                            <img src="../images/andi.png" width="100px" class="my-2">
                             <p><strong>Andi Fan</strong><br>Web Developer</p>
                         </div>
                         <div class="col-xs-12">
