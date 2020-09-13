@@ -1,8 +1,2 @@
-# To-do
-- Favicon
-- Update content
-- Change font
-- Register domain
-- Add member portraits
-- Update calendar (events)
-- Modify "Other ways to help" section
+# Cause for Paws Website
+Developed and designed by @AFYY and @kim-le
