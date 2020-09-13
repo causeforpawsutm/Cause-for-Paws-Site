@@ -9,6 +9,7 @@
     <title>Cause for Paws</title>
     <!-- Bootstrap core CSS -->
     <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
     <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -28,30 +29,30 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
         <div class="container">
             <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top">Home</a>
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause for Paws</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                        <a class="nav-link js-scroll-trigger" href="#about">ABOUT</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#events">Events</a>
+                        <a class="nav-link js-scroll-trigger" href="#events">EVENTS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#sponsors">Sponsors</a>
+                        <a class="nav-link js-scroll-trigger" href="#sponsors">SPONSORS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                        <a class="nav-link js-scroll-trigger" href="#contact">CONTACT</a>
                     </li>
                 </ul>
             </div>
         </div>
     </nav>
     <header class="text-white" id="bg-header">
-        <div class="container text-center bg-header">
+        <div class="container text-center header-content">
             <!--<img src="../images/logo.svg" width="150px"> -->
             <h1>Cause For Paws</h1>
             <h3>Giving a voice to the voiceless</h3>
@@ -65,6 +66,12 @@
                     <p class="lead">
                         Cause for Paws' primary goal is to fundraise money for shelters such as the Ontario SPCA and the Mississauga Humane Society. We also give students the opportunity to work up-close with animals.
                     </p>
+                </div>
+            </div>
+        </div>
+        <div class="container text-center" style="background-color:light;">
+            <div class="row">
+                <div class="col-lg-8 mx-auto">
                     <h3 class="mt-5 mb-4">Our Team</h3>
                     <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-3">
@@ -115,10 +122,9 @@
                             <img src="../images/andi.png" width="100px" class="my-2">
                             <p><strong>Andi Fan</strong><br>Web Developer</p>
                         </div>
-                        <div class="col-xs-12">
-                            <p class="my-3">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
-                        </div>
                     </div>
+                    <p class="my-3">Want to get to know us more? Check out our <a href="https://www.instagram.com/p/CD-Hh7uJT7R/?utm_source=ig_web_copy_link">team profile on Instagram!</a></p>
+                    <a href="https://docs.google.com/document/d/1x3GjCFI1t6YQLdcnh7PAdg1TuNxt-IT2px-gyt9zGvc/edit"><button class="btn btn-main">Join the club</button></a>
                 </div>
             </div>
         </div>

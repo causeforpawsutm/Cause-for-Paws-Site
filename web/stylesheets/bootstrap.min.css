@@ -89,6 +89,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Karla', sans-serif;
 	margin-top: 0;
 	margin-bottom: .5rem
     font-weight:600;
@@ -382,6 +383,7 @@ h3,
 h4,
 h5,
 h6 {
+    font-family: 'Karla', sans-serif;
 	margin-bottom: .5rem;
 	font-weight: 600;
 	line-height: 1.2;
@@ -4489,6 +4491,7 @@ input[type=submit].btn-block {
 }
 
 .nav-link {
+    font-family: 'Karla', sans-serif;
 	display: block;
 	padding: .5rem 1rem
 }
@@ -4996,7 +4999,7 @@ input[type=submit].btn-block {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-	color: rgba(255, 255, 255, .5)
+	color: #fff
 }
 
 .navbar-dark .navbar-nav .nav-link:focus,
