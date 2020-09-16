@@ -78,7 +78,7 @@
         <div class="container text-center header-content">
             <!--<img src="../images/logo.svg" width="150px"> -->
             <h1>Cause For Paws</h1>
-            <h3 class="subtitle">Giving a voice to the voiceless</h3>
+            <h3>Giving a voice to the voiceless</h3>
         </div>
     </header>
     <section id="about">
@@ -94,7 +94,7 @@
         </div>
         <div class="container text-center">
             <div class="row">
-                <div class="col-lg-8 mx-auto">
+                <div class="col-lg-10 mx-auto team">
                     <h3 class="mt-5 mb-4">Our Team</h3>
                     <div class="row">
                         <div class="col-xs-12 col-sm-2 col-md-3">
@@ -349,10 +349,10 @@
                     <p class="lead">Please don't hesitate to contact us for more information regarding the club! We'd love to hear your suggestions and answer your questions.</p>
                     <div class="row justify-content-center col-md-8 mx-auto">
                         <div class="col mx-auto">
-                            <a href="https://www.instagram.com/causeforpawsutm/"><button class="btn btn-main">Instagram</button></a>
+                            <a href="https://www.instagram.com/causeforpawsutm/"><button class="btn btn-primary">Instagram</button></a>
                         </div>
                         <div class="col mx-auto">
-                            <a href="mailto:causeforpawutm@outlook.com"><button class="btn btn-main">Email Us</button></a>
+                            <a href="mailto:causeforpawutm@outlook.com"><button class="btn btn-primary">Email Us</button></a>
                         </div>
                     </div>
                 </div>

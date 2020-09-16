@@ -2676,6 +2676,8 @@ textarea.form-control.is-invalid {
 	font-weight: 400;
 	color: #ffffff;
 	text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
 	vertical-align: middle;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -2683,10 +2685,10 @@ textarea.form-control.is-invalid {
 	user-select: none;
 	background-color: transparent;
 	border: 1px solid transparent;
+    border-radius: 2rem;
 	padding: .375rem .75rem;
 	font-size: 1rem;
 	line-height: 1.5;
-	border-radius: .25rem;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out
 }
 
@@ -2723,26 +2725,22 @@ fieldset:disabled a.btn {
 
 .btn-main {
 	color: #fff;
-	background-color: #a078b5;
-	border-color: #a078b5;
+	background-color: #8E5EA7;
 }
 
 .btn-main:hover {
 	color: #fff;
-	background-color: #8e5ea7;
-	border-color: #8e5ea7;
+	background-color: #BB9ECA;
 }
 
 .btn-primary {
-	color: #fff;
-	background-color: #007bff;
-	border-color: #007bff
+    background-color: #E7F59E;
+    color: #162521;
 }
 
 .btn-primary:hover {
-	color: #fff;
-	background-color: #0069d9;
-	border-color: #0062cc
+	color: #162521;
+	background-color: #ACC3A6;
 }
 
 .btn-primary.focus,
@@ -5052,10 +5050,10 @@ input[type=submit].btn-block {
 	background-color: #fff;
 	background-clip: border-box;
 	/*border: 1px solid rgba(0, 0, 0, .125);*/
-	border-radius: .5rem;
-  -webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.18);
-  -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.18);
-  box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.18);
+	border-radius: 2rem;
+    -webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.15);
 }
 
 .card>hr {
@@ -7169,7 +7167,7 @@ button.bg-light:hover {
 }
 
 .bg-dark {
-	background-color: #162521!important
+	background-color: #bb9eca!important
 }
 
 a.bg-dark:focus,

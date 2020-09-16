@@ -3,7 +3,10 @@
   background:transparent;
 }
 .navbar-default.scrolled{
-  background-color: #162521;
+  background-color: #bb9eca;
+  -webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.31);
+  -moz-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.31);
+  box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.31);
 }
 
 header {
@@ -15,16 +18,18 @@ header {
     text-transform: none!important;
     font-weight: 400!important;
     font-size: 3.2rem;
+    color: #E7F59E;
 }
 
-section {
-  padding: 150px 0;
-}
-
-.subtitle{
+.header-content h3{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300 !important;
     text-transform: none;
+    color: fff;
+}
+
+section {
+  padding: 90px 0;
 }
 
 #bg-header {
@@ -45,6 +50,13 @@ section {
     background-size: cover;
     background-position: center;
     color:#ffffff;
+}
+
+.team {
+    background-color:#e7e7e7;
+    border-radius:2rem;
+    padding-bottom:50px;
+    margin: 50px 50px 0 50px;
 }
 .event:nth-of-type(odd){
   background-color: #efefef;
