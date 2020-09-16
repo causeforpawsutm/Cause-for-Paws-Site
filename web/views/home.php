@@ -11,6 +11,7 @@
     <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
     <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
@@ -23,11 +24,16 @@
     <!-- <script src="js/jquery-1.11.0.min.js"></script>
          <script src="js/bootstrap.min.js"></script>
          <script src="js/wow.min.js"></script> -->
+    <script>
+        $(window).scroll(function(){
+	           $('nav').toggleClass('scrolled', $(this).scrollTop() > 200);
+        });
+</script>
 </head>
 
 <body id="page-top">
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-default fixed-top" id="mainNav">
         <div class="container">
             <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause for Paws</a>
