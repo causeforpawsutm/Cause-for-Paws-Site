@@ -27,7 +27,7 @@
 
 <body id="page-top">
     <!-- Navigation -->
-    <nav class="navbar navbar-dark navbar-expand-lg navbar-fixed-top fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
         <div class="container">
             <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause for Paws</a>
