@@ -86,6 +86,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2>About us</h2>
+                    <hr>
                     <p class="lead">
                         Cause for Paws' primary goal is to fundraise money for shelters such as the Ontario SPCA and the Mississauga Humane Society. We also give students the opportunity to work up-close with animals.
                     </p>
@@ -93,55 +94,55 @@
             </div>
         </div>
         <div class="container text-center">
-            <div class="row">
+            <div class="row mx-1">
                 <div class="col-lg-10 mx-auto team">
                     <h3 class="mt-5 mb-4">Our Team</h3>
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                    <div class="row mx-4">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/ginuha.png" width="100px" class="my-2">
                             <p><strong>Ginuha Radha</strong><br>President</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/jocelyn.png" width="100px" class="my-2">
                             <p><strong>Jocelyn Kao</strong><br>Co-President</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/jessie.png" width="100px" class="my-2">
                             <p><strong>Jessie Bui</strong><br>Vice President</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/maryam.png" width="100px" class="my-2">
                             <p><strong>Maryam Yousefi</strong><br>VP of External Affairs</p>
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/paola.png" width="100px" class="my-2">
                             <p><strong>Paola Flores</strong><br>VP of Internal Affairs</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/serena.png" width="100px" class="my-2">
                             <p><strong>Serena Wong</strong><br>VP of Marketing</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/alyssa.png" width="100px" class="my-2">
                             <p><strong>Alyssa Santiago</strong><br>VP of Marketing</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-3">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/savera.png" width="100px" class="my-2">
                             <p><strong>Savera Zahid</strong><br>VP of Finance</p>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-xs-12 col-sm-2 col-md-4">
+                    <div class="row justify-content-md-center">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/sarah.png" width="100px" class="my-2">
                             <p><strong>Sarah Lutka</strong><br>VP of Finance</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-4">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/kim.png" width="100px" class="my-2">
                             <p><strong>Kim Le</strong><br>Web Developer</p>
                         </div>
-                        <div class="col-xs-12 col-sm-2 col-md-4">
+                        <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/andi.png" width="100px" class="my-2">
                             <p><strong>Andi Fan</strong><br>Web Developer</p>
                         </div>
@@ -157,6 +158,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2>Events</h2>
+                    <hr>
                     <p class="lead">
                         We will be hosting multiple events with animals, holding virtual events for the Fall semester, and having bake sales which will include vegetarian and vegan-friendly options!
                     </p>
@@ -266,6 +268,7 @@
         <div class="container text-center">
             <div class="col-lg-8 mx-auto">
                 <h2>Sponsors</h2>
+                <hr>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.
                 </p>
             </div>
@@ -285,60 +288,6 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-8 mx-auto">
-                <h4 class="m-5">
-                    Other ways to help</h4>
-                <div class="accordion" id="accordion-resources">
-                    <div class="card">
-                        <div class="card-header" id="headingOne">
-                            <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-one" aria-expanded="false" aria-controls="resource-one">
-                                    Charity #1
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="resource-one" class="collapse" aria-labelledby="headingOne" data-parent="#accordion-resources">
-                            <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf
-                                moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" id="headingTwo">
-                            <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-two" aria-expanded="false" aria-controls="resource-two">
-                                    Charity #2
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="resource-two" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-resources">
-                            <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf
-                                moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card">
-                        <div class="card-header" id="headingThree">
-                            <h2 class="mb-0">
-                                <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#resource-three" aria-expanded="false" aria-controls="resource-three">
-                                    Charity #3
-                                </button>
-                            </h2>
-                        </div>
-                        <div id="resource-three" class="collapse" aria-labelledby="headingThree" data-parent="#accordion-resources">
-                            <div class="card-body">
-                                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf
-                                moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur
-                                butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
     <section id="contact" class="bg-light">
@@ -346,6 +295,7 @@
             <div class="row">
                 <div class="col-lg-8 mx-auto">
                     <h2>Contact us</h2>
+                    <hr>
                     <p class="lead">Please don't hesitate to contact us for more information regarding the club! We'd love to hear your suggestions and answer your questions.</p>
                     <div class="row justify-content-center col-md-8 mx-auto">
                         <div class="col mx-auto">
