@@ -23,11 +23,20 @@
     <!-- <script src="js/jquery-1.11.0.min.js"></script>
          <script src="js/bootstrap.min.js"></script>
          <script src="js/wow.min.js"></script> -->
+    <script>
+    $(function () {
+        $(document).scroll(function () {
+	        var $nav = $(".navbar-fixed-top");
+            var $header = $("header");
+	        $nav.toggleClass('scrolled', $(this).scrollTop() > $header.height());
+	    });
+    });
+    </script>
 </head>
 
 <body id="page-top">
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-fixed-top fixed-top" id="mainNav">
         <div class="container">
             <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause for Paws</a>

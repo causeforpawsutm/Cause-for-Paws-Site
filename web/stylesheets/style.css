@@ -12,6 +12,15 @@ section {
     text-transform: none;
 }
 
+.navbar-fixed-top.scrolled {
+  background-color: #162521 !important;
+  transition: background-color 200ms linear;
+}
+
+.navbar-fixed-top.scrolled .nav-link {
+  color:#ffffff;
+}
+
 #bg-header {
   background-image: url("/images/heroIMG.jpg");
   background-size: cover;
