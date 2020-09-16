@@ -24,8 +24,7 @@
     $(function () {
         $(document).scroll(function () {
 	        var $nav = $(".navbar-fixed-top");
-            var $header = $("header");
-	        $nav.toggleClass('scrolled', $(this).scrollTop() > $header.height());
+	        $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
 	    });
     });
     </script>
