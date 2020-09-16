@@ -265,7 +265,7 @@
                     <div class="row align-self-end mx-auto py-4"><a href="https://ontariospca.ca/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
                 </div>
                 <div class="col-md-5 m-3 p-3 mx-auto card">
-                    <img class="mx-auto" width="70%" src="../images/mississauga-logo.jpg">
+                    <img class="mx-auto" width="70%" src="../images/mississauga-logo.png">
                     <h5 class="card-title">Mississauga Animal Services Shelter</h5>
                     <p class="card-body px-2 mb-0">The City of Mississauga Animal Services Shelter is all about animal care. We provide a range of animal related services and promote responsible pet ownership.</p>
                     <div class="row align-self-end mx-auto py-4"><a href="https://web.mississauga.ca/services-and-programs/animals-and-pets/animal-services-shelter/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
