@@ -7,35 +7,48 @@
     <meta name="description" content="">
     <meta name="author" content="Andi Fan, Kim Le">
     <title>Cause for Paws</title>
+    <link rel="icon" type="image/png" href="../images/favicon.png">
     <!-- Bootstrap core CSS -->
     <link href="../stylesheets/bootstrap.min.css" rel="stylesheet">
+    <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <!--<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">-->
-    <!-- <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
-         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"> </script> -->
     <!-- Custom styles for this template -->
     <link href="../stylesheets/style.css" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-    <!-- <script src="js/jquery-1.11.0.min.js"></script>
-         <script src="js/bootstrap.min.js"></script>
-         <script src="js/wow.min.js"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <!-- Smooth scrolling -->
     <script>
-        $(window).scroll(function(){
-	           $('nav').toggleClass('scrolled', $(this).scrollTop() > 200);
+        $(document).ready(function() {
+            $("a").on('click', function(event) {
+                if (this.hash !== "") {
+                    event.preventDefault();
+                    var hash = this.hash;
+                    $('html, body').animate({
+                        scrollTop: $(hash).offset().top
+                    }, 800, function() {
+                        window.location.hash = hash;
+                    });
+                }
+            });
         });
-</script>
+    </script>
+    <script>
+        $(window).scroll(function() {
+            $('nav').toggleClass('scrolled', $(this).scrollTop() > 150);
+        });
+    </script>
 </head>
 
 <body id="page-top">
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark navbar-default fixed-top" id="mainNav">
         <div class="container">
-            <img class="js-scroll-trigger m-2" src="../images/logo.svg" width="50px">
+            <img class="js-scroll-trigger m-2" src="../images/logo.png" width="50px">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">Cause for Paws</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -55,7 +68,7 @@
                         <a class="nav-link js-scroll-trigger" href="#contact">CONTACT</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.instagram.com/causeforpawsutm/" target="_blank"><i class="fa fa-instagram"  aria-hidden="true"></i></a>
+                        <a class="nav-link" href="https://www.instagram.com/causeforpawsutm/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     </li>
                 </ul>
             </div>
@@ -268,7 +281,8 @@
                     <img class="mx-auto" width="70%" src="../images/mississauga-logo.png">
                     <h5 class="card-title">Mississauga Animal Services Shelter</h5>
                     <p class="card-body px-2 mb-0">The City of Mississauga Animal Services Shelter is all about animal care. We provide a range of animal related services and promote responsible pet ownership.</p>
-                    <div class="row align-self-end mx-auto py-4"><a href="https://web.mississauga.ca/services-and-programs/animals-and-pets/animal-services-shelter/" target="_blank"><button type="button" class="btn btn-main">Website</button></a></div>
+                    <div class="row align-self-end mx-auto py-4"><a href="https://web.mississauga.ca/services-and-programs/animals-and-pets/animal-services-shelter/" target="_blank"><button type="button" class="btn btn-main">Website</button></a>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-8 mx-auto">

@@ -173,7 +173,10 @@ sup {
 a {
 	color: #8e5ea7;
 	text-decoration: none;
-	background-color: transparent
+	background-color: transparent;
+    transition: color 0.3s linear;
+    -webkit-transition: color 0.3s linear;
+    -moz-transition: color 0.3s linear;
 }
 
 a:hover {

@@ -1,5 +1,5 @@
 .navbar-default{
-  transition:500ms ease;
+  transition:200ms ease;
   background:transparent;
 }
 .navbar-default.scrolled{
@@ -13,6 +13,8 @@ header {
 .header-content h1{
     font-family: 'Oleo Script Swash Caps', cursive;
     text-transform: none!important;
+    font-weight: 400!important;
+    font-size: 3.2rem;
 }
 
 section {
