@@ -3,7 +3,7 @@
   background:transparent;
 }
 .navbar-default.scrolled{
-  background-color: #162521
+  background-color: #162521;
 }
 
 header {
@@ -11,7 +11,8 @@ header {
 }
 
 .header-content h1{
-    font-family: none!important;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-transform: none!important;
 }
 
 section {
