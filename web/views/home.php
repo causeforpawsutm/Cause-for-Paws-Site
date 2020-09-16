@@ -115,7 +115,7 @@
                             <p><strong>Maryam Yousefi</strong><br>VP of External Affairs</p>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row mx-4">
                         <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/paola.png" width="100px" class="my-2">
                             <p><strong>Paola Flores</strong><br>VP of Internal Affairs</p>
@@ -133,7 +133,7 @@
                             <p><strong>Savera Zahid</strong><br>VP of Finance</p>
                         </div>
                     </div>
-                    <div class="row justify-content-md-center">
+                    <div class="row justify-content-md-center mx-4">
                         <div class="col-xs-5 col-md-3 px-0">
                             <img src="../images/sarah.png" width="100px" class="my-2">
                             <p><strong>Sarah Lutka</strong><br>VP of Finance</p>
