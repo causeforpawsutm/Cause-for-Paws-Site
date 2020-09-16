@@ -16,18 +16,6 @@ section {
     text-transform: none;
 }
 
-.navbar-fixed-top.scrolled {
-  background-color: #162521 !important;
-  transition: background-color 200ms linear;
-  -webkit-box-shadow: 0px 7px 10px -4px rgba(0,0,0,0.18);
-  -moz-box-shadow: 0px 7px 10px -4px rgba(0,0,0,0.18);
-  box-shadow: 0px 7px 10px -4px rgba(0,0,0,0.18);
-}
-
-.navbar-fixed-top.scrolled .nav-link {
-  color:#ffffff;
-}
-
 #bg-header {
   background-image: url("/images/heroIMG.jpg");
   background-size: cover;
