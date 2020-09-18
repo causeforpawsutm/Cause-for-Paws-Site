@@ -75,12 +75,12 @@ section {
     color: #162521;
 }
 
-.event:nth-of-type(odd).badge{
+.event:nth-of-type(odd) .badge{
     color: #fff;
 	background-color: #8E5EA7;
 }
 
-.event:nth-of-type(even).badge{
+.event:nth-of-type(even) .badge{
     color: #fff;
 	background-color: #BB9ECA;
 }
