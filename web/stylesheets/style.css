@@ -62,12 +62,12 @@ section {
 }
 .event:nth-of-type(odd){
   background-color: #f3f3f3;
-  border-left: 10px #000000 solid;
+  border-left: 10px #8E5EA7 solid;
 }
 
 .event:nth-of-type(even){
   background-color: #ffffff;
-  border-left: 10px #efefef solid;
+  border-left: 10px #BB9ECA solid;
 }
 
 .event{
@@ -75,10 +75,10 @@ section {
     color: #162521;
 }
 
-h1 .date{
-    @media only screen and (min-width: 769px) {
+.date{
+    @media (min-width: 769px) {
         font-size: 3.5rem;
     	font-weight: 300;
-    	line-height: 1.2
+    	line-height: 1.2;
     }
 }
