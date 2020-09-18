@@ -30,7 +30,7 @@
                     var hash = this.hash;
                     $('html, body').animate({
                         scrollTop: $(hash).offset().top
-                    }, 800, function() {
+                    }, 500, function() {
                         window.location.hash = hash;
                     });
                 }
@@ -164,12 +164,12 @@
                     </p>
                 </div>
             </div>
-            <div class="row">
+            <div class="row mx-1">
                 <div class="container col-lg-9 text-left mt-4">
                     <h2>2020</h2>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">23</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">23</span></h1>
                             <h2>SEPT</h2>
                         </div>
                         <div class="col-10">
@@ -184,7 +184,7 @@
                     </div>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">10</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">10</span></h1>
                             <h2>OCT</h2>
                         </div>
                         <div class="col-10">
@@ -199,7 +199,7 @@
                     </div>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">05</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">05</span></h1>
                             <h2>NOV</h2>
                         </div>
                         <div class="col-10">
@@ -217,7 +217,7 @@
                     <h2>2021</h2>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">21</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">21</span></h1>
                             <h2>JAN</h2>
                         </div>
                         <div class="col-10">
@@ -232,7 +232,7 @@
                     </div>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">15</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">15</span></h1>
                             <h2>FEB</h2>
                         </div>
                         <div class="col-10">
@@ -247,7 +247,7 @@
                     </div>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="display-4"><span class="badge badge-secondary">15</span></h1>
+                            <h1 class="date"><span class="badge badge-secondary">15</span></h1>
                             <h2>APR</h2>
                         </div>
                         <div class="col-10">
