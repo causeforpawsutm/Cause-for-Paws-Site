@@ -169,17 +169,17 @@
                     <h2>2020</h2>
                     <div class="row event">
                         <div class="col-2 text-left">
-                            <h1 class="date"><span class="badge">23</span></h1>
+                            <h1 class="date"><span class="badge">25</span></h1>
                             <h2>SEPT</h2>
                         </div>
                         <div class="col-10">
-                            <h4>Cause for Paws Virtual Welcome</h4>
+                            <h4>Cause for Paws Jackbox Event</h4>
                             <ul class="list-inline">
-                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Wednesday</li>
-                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> TBD</li>
+                                <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Friday</li>
+                                <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 6PM EST</li>
                                 <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Zoom Meeting</li>
                             </ul>
-                            <p>To create a space for members to meet and connect. Get to know the Cause for Paws team better through icebreaker events.</p>
+                            <p>A chance to get to know our team and for an evening of fun and games!</p>
                         </div>
                     </div>
                     <div class="row event">
@@ -283,7 +283,7 @@
                 <div class="col-md-5 m-3 p-3 mx-auto card">
                     <img class="mx-auto" width="70%" src="../images/mississauga-logo.png">
                     <h5 class="card-title">Mississauga Animal Services Shelter</h5>
-                    <p class="card-body px-2 mb-0">The City of Mississauga Animal Services Shelter is all about animal care. We provide a range of animal related services and promote responsible pet ownership.</p>
+                    <p class="card-body px-2 mb-0">The City of Mississauga Animal Services Shelter is all about animal care. They provide a range of animal related services and promote responsible pet ownership.</p>
                     <div class="row align-self-end mx-auto py-4"><a href="https://web.mississauga.ca/services-and-programs/animals-and-pets/animal-services-shelter/" target="_blank"><button type="button" class="btn btn-main">Website</button></a>
                     </div>
                 </div>
