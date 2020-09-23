@@ -269,8 +269,8 @@
             <div class="col-lg-8 mx-auto">
                 <h2>Sponsors</h2>
                 <hr>
-                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.
-                </p>
+                <!--<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa exercitationem, in, quo totam.
+                </p>-->
             </div>
             <div class="row col-md-11 mx-auto">
                 <div class="col-md-5 m-3 p-3 mx-auto card">
