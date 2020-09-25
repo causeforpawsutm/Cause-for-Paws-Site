@@ -177,7 +177,7 @@
                             <ul class="list-inline">
                                 <li class="list-inline-item"><i class="fa fa-calendar-o" aria-hidden="true"></i> Friday</li>
                                 <li class="list-inline-item"><i class="fa fa-clock-o" aria-hidden="true"></i> 6PM EST</li>
-                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> Zoom Meeting</li>
+                                <li class="list-inline-item"><i class="fa fa-location-arrow" aria-hidden="true"></i> <a href="https://utoronto.zoom.us/j/91648527012">Zoom Meeting</a></li>
                             </ul>
                             <p>A chance to get to know our team and for an evening of fun and games!</p>
                         </div>
